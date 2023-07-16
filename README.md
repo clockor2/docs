@@ -1,4 +1,4 @@
-![](public/logo-with-text.png)
+![](https://github.com/clockor2/clockor2/blob/main/public/logo-with-text.png)
 
 Welcome to the Clockor2 documentation repo! The Clockor2 docs can be found at [clockor2.github.io/docs](https://clockor2.github.io/docs). 
 
