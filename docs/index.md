@@ -20,7 +20,11 @@ Starting with a phylogenetic tree relating the samples, the central idea is that
 
 
 ## Citation
-If you use Clockor2 in your work, please consider citing [ADD CITATION SOON].
+If you use Clockor2 in your work, please consider citing [Featherstone et al., 2023](https://doi.org/10.1101/2023.07.13.548947).
+
+!!! info
+
+    Featherstone, L. A., Rambaut, A., Duchene, S., & Wirth, W. (2023). Inferring global and local strict molecular clocks using root-to-tip regression. bioRxiv. https://doi.org/10.1101/2023.07.13.548947
 
 ## Useful references
 
