@@ -14,5 +14,5 @@ To export the regression data click the `download plot data` icon on the regress
 
 ![](../images/export-plot-data.png)
 
-This will export the regression and point data as an array for JSON objects that can be used in downstream analyses (e.g. R or Python).
+This will export the point data as a CSV file can be used in downstream analyses (e.g. R or Python).
 
